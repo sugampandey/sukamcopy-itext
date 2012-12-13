@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<design>
+  <id></id>
+  <name></name>
+  <width></width>
+  <height></height>
+  <bleed></bleed>
+  <cut></cut>
+  <safety></safety>
+  
+  <asset></asset>
+  
+  <elements>
+    <element id="x" type="text|image">
+      <width></width>
+      <height></height>
+      <top></top>
+      <left></left>
+      <content></content>
+      <asset></asset>
+    <element>
+  </elements>
+</design>
